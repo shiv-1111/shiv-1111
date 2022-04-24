@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @shiv-1111
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning front end development
-- 💞️ I’m looking to collaborate on ...
+- 👋 Hi, I’m Shiv
+- 🌱 I’m currently learning front end web development(MERN Stack)
 - 📫 Reach me on "shivashishbhaskar@gmail.com"
 
 <!---
