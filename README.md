@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shiv
-- 🌱 I’m currently learning front end web development(MERN Stack)
+- 🌱 I’m currently learning web development(MERN Stack)
 - 📫 Reach me on "shivashishbhaskar@gmail.com"
 
 <!---
