@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Shivashish Bhaskar</h1>
 <h3 align="center">A fullstack developer</h3>
 <img alt="Coding" src="https://camo.githubusercontent.com/683e2187241c641430216c864ce93fc5a0e0dfb232c5a01d1c54b54d63aa8cb2/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f313136323037372f73637265656e73686f74732f333834383931342f70726f6772616d6d65722e676966" data-canonical-src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" style="max-width: 100%; width: 400px; display: inline-block;" data-target="animated-image.originalImage" align="right">
-- 👨‍💻 All of my projects are available at [https://github.com/shiv-1111](https://github.com/shiv-1111)
+- 👨‍💻 All of my projects are available at [https://github.com/shiv-1111]
 
 - 📫 How to reach me **shivashishbhaskar@gmail.com**
 
